@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c0110c1e37173441a6e050bd56af3c6
+timeCreated: 1508263207
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Perfect Dark (BRK)
+  fontNames:
+  - Perfect Dark (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
